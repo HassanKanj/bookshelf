@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My books reviews </title>
+    <link>https://HassanKanj.github.io/bookshelf/</link>
+    <language>en-us</language>
+    <author>Hassan Kanj</author>
+    <rights>(C) 2017</rights>
+    <updated>2017-06-23 04:21:09 &#43;0300 EEST</updated>
+
+    
+      
+        <item>
+          <title>introduction to programming</title>
+          <link>https://HassanKanj.github.io/bookshelf/post/introduction-to-programming/</link>
+          <pubDate>Fri, 23 Jun 2017 04:21:09 EEST</pubDate>
+          <author>Hassan Kanj</author>
+          <guid>https://HassanKanj.github.io/bookshelf/post/introduction-to-programming/</guid>
+          <description>&lt;p&gt;Hello! this is a test for &lt;strong&gt;introduction to programming&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>good to great</title>
+          <link>https://HassanKanj.github.io/bookshelf/post/good-to-great/</link>
+          <pubDate>Fri, 23 Jun 2017 03:24:10 EEST</pubDate>
+          <author>Hassan Kanj</author>
+          <guid>https://HassanKanj.github.io/bookshelf/post/good-to-great/</guid>
+          <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>

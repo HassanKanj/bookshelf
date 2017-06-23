@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://HassanKanj.github.io/bookshelf/post/introduction-to-programming/</loc>
+    <lastmod>2017-06-23T04:21:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://HassanKanj.github.io/bookshelf/post/good-to-great/</loc>
+    <lastmod>2017-06-23T03:24:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://HassanKanj.github.io/bookshelf/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://HassanKanj.github.io/bookshelf/</loc>
+    <lastmod>2017-06-23T04:21:09+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://HassanKanj.github.io/bookshelf/post/</loc>
+    <lastmod>2017-06-23T04:21:09+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://HassanKanj.github.io/bookshelf/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
